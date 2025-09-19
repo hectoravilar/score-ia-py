@@ -1,7 +1,7 @@
 # Score-IA-py
 
 ## Descrição
-Sistema de análise e previsao de score de crédito utilizando Machine Learning. O projeto processa dados financeiros de clientes e treina modelos para classificar o score de crédito em categorias (Good, Standard, Poor).
+Sistema de análise e previsão de score de crédito utilizando Machine Learning. O projeto processa dados financeiros de clientes e treina modelos para classificar o score de crédito em categorias (Good, Standard, Poor).
 
 ## Funcionalidades
 - **Análise de dados**: Processamento de dataset com 100.000 registros de clientes
@@ -21,6 +21,7 @@ O dataset contém 25 variáveis incluindo:
 - **pandas**: Manipulação de dados
 - **scikit-learn**: Machine Learning
 - **Jupyter Notebook**: Desenvolvimento interativo
+
 
 ## Resultados
 O sistema compara a performance de dois algoritmos:
